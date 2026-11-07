@@ -1,0 +1,2117 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:cx="http://celtx.com/NS/v1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <cx:Cast RDF:about="http://celtx.com/res/GKAl2SGfUR7N"
+                   dc:title="PRINCIPAL" />
+  <RDF:Description RDF:about="http://celtx.com/res/oAgh1000"
+                   cx:sceneid="0tgh1000"
+                   cx:intext="EXT"
+                   cx:setting="INT. SJCE COLLEGE/CS BLOCK"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   dc:title="EXT.INT. SJCE COLLEGE/CS BLOCK - DAY"
+                   cx:ordinal="5"
+                   cx:sortord="0005">
+    <cx:members RDF:resource="rdf:#$WrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$XrTDU1"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/dvzkXS7FXe5M"
+                   dc:title="MECH BOY" />
+  <RDF:Description RDF:about="http://celtx.com/res/m1s4mf00"
+                   cx:sceneid="yHs4mf00"
+                   cx:location=" "
+                   cx:ordinal="73"
+                   cx:sortord="0073"
+                   cx:intext="INT"
+                   cx:setting="BMTC BUS"
+                   cx:daynight="DAY"
+                   dc:title="INT. HOME BUS - DAY">
+    <cx:members RDF:resource="rdf:#$95s3h2"/>
+    <cx:markup RDF:resource="rdf:#$a5s3h2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$+iFpj2">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/C7uvQm4VaEz9"
+                   dc:title="NIKHI" />
+  <RDF:Seq RDF:about="rdf:#$FfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/mI2fwGzobx4o"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$FfOGb2"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$1rPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$BfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/gqxKjVlMcjxe"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$BfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$wklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/qzN8q8CIlCge"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$wklR71"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$vfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/Ai14CC0wNUIn"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$vfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Cast RDF:about="http://celtx.com/res/X1Ks16mWO8qU"
+                   dc:title="MEGHA" />
+  <RDF:Description RDF:about="http://celtx.com/res/fahjw000"
+                   cx:sceneid="JxBL0000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   dc:title="INT.DAKSH'S HOME/DINING TABLE : NIGHT - AT DINNER TABLE. IJ_1A"
+                   cx:setting="DAKSH'S HOME/DINING TABLE : NIGHT - AT DINNER TABLE. IJ_1A"
+                   cx:ordinal="71"
+                   cx:sortord="0071">
+    <cx:members RDF:resource="rdf:#$CvKVw3"/>
+    <cx:markup RDF:resource="rdf:#$DvKVw3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$0gMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$SrTDU1">
+    <RDF:li RDF:resource="rdf:#$AfMW3"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$wfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/uYeWWOrjc2bx"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/38WZWwspSpR4"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$wfMW3"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/x43ta000"
+                   cx:sceneid="py1ta000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="INT MONTAGES OF ELECTIONS CAMPAIGN - DAY/"
+                   cx:daynight="NIGHT"
+                   dc:title="EXT.INT MONTAGES OF ELECTIONS CAMPAIGN - DAY/NIGHT"
+                   cx:ordinal="35"
+                   cx:sortord="0035">
+    <cx:members RDF:resource="rdf:#$bgMW3"/>
+    <cx:markup RDF:resource="rdf:#$cgMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/sAEf1000"
+                   cx:sceneid="MtEf1000"
+                   cx:intext="INT"
+                   cx:setting="WELCOME PARTY FOR CS FRESHERS/ BALLROOM"
+                   cx:daynight="DAY"
+                   dc:title="INT. WELCOME PARTY FOR CS FRESHERS/ BALLROOM - DAY"
+                   cx:location=" "
+                   cx:ordinal="12"
+                   cx:sortord="0012">
+    <cx:members RDF:resource="rdf:#$YrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$ZrTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/hnyI9000"
+                   cx:sceneid="P4vI9000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="LABS, GROUNDS, FESTS - DAY :SECOND SEM"
+                   dc:title="EXT. LABS, GROUNDS, FESTS - DAY :SECOND SEM"
+                   cx:ordinal="7"
+                   cx:sortord="0007">
+    <cx:members RDF:resource="rdf:#$LfMW3"/>
+    <cx:markup RDF:resource="rdf:#$MfMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$83DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/GKAl2SGfUR7N"/>
+    <RDF:li RDF:resource="http://celtx.com/res/MoCr2CBY42YO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$83DPN1"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/q7fu2000"
+                   cx:sceneid="mPfu2000"
+                   cx:intext="INT"
+                   cx:setting="PRINCIPLE ROOM"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   dc:title="INT. PRINCIPLE ROOM - DAY"
+                   cx:ordinal="15"
+                   cx:sortord="0015">
+    <cx:members RDF:resource="rdf:#$2sTDU1"/>
+    <cx:markup RDF:resource="rdf:#$3sTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/Kb4l5000"
+                   cx:sceneid="vM4l5000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT. NAREN'S HOME - DAY"
+                   cx:setting="NAREN'S HOME"
+                   cx:ordinal="44"
+                   cx:sortord="0044">
+    <cx:members RDF:resource="rdf:#$qsTDU1"/>
+    <cx:markup RDF:resource="rdf:#$rsTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/dQac5000"
+                   cx:sceneid="xAac5000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   dc:title="INT. OUTSIDE PG - DAY"
+                   cx:setting="OUTSIDE PG"
+                   cx:daynight="DAY"
+                   cx:ordinal="50"
+                   cx:sortord="0050">
+    <cx:members RDF:resource="rdf:#$usTDU1"/>
+    <cx:markup RDF:resource="rdf:#$vsTDU1"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/Oso7HR6emKyQ"
+                   dc:title="EC_1" />
+  <RDF:Seq RDF:about="rdf:#$.iFpj2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$EmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/Qf72Jg5arAPd"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$EmsS5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="http://celtx.com/res/9uEellKm1xdh">
+    <RDF:li RDF:resource="http://celtx.com/res/INWKvSDiWASj"/>
+    <RDF:li RDF:resource="http://celtx.com/res/1kEqvojZWTHA"/>
+    <RDF:li RDF:resource="http://celtx.com/res/defaultsketchdoc"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ovlpPZAG65Pp"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/9uEellKm1xdh"
+                   cx:projectRoot="true"
+                   dc:title="9th" />
+  <cx:Cast RDF:about="http://celtx.com/res/PFp0k9FtK7Q8"
+                   dc:title="MEGHAO" />
+  <RDF:Seq RDF:about="rdf:#$qfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/YBfJIOsmXilH"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$qfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/h7Cm0000"
+                   cx:sceneid="33Cm0000"
+                   cx:intext="EXT"
+                   dc:description="Test"
+                   cx:eighths=""
+                   cx:scriptday=""
+                   cx:location=" "
+                   cx:setting="ITI LAYOUT PARK - DAY                                1"
+                   cx:daynight=""
+                   dc:title="EXT. ITI LAYOUT PARK - DAY                                1"
+                   cx:ordinal="1"
+                   cx:sortord="0001">
+    <cx:members RDF:resource="rdf:#$HrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$IrTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$gfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/BwZ0UuyojSPU"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$gfOGb2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$KgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$xsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$JQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/Oso7HR6emKyQ"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$JQ49H2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/NI7ha000"
+                   cx:sceneid="cw5ha000"
+                   dc:title="INT. BIGGIES OFFICE - DAY/NIGHT"
+                   cx:intext="INT"
+                   cx:setting="BIGGIES OFFICE - DAY/"
+                   cx:daynight="NIGHT"
+                   cx:location=" "
+                   cx:ordinal="62"
+                   cx:sortord="0062">
+    <cx:members RDF:resource="rdf:#$rklR71"/>
+    <cx:markup RDF:resource="rdf:#$sklR71"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$F3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$F3DPN1"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/unrf3000"
+                   cx:sceneid="Eqrf3000"
+                   dc:title="INT.EXT. YET TO BE DECIDED - DAY.NIGHT"
+                   cx:intext="INT"
+                   cx:setting="EXT. YET TO BE DECIDED - DAY"
+                   cx:daynight="NIGHT"
+                   cx:location=" "
+                   cx:ordinal="68"
+                   cx:sortord="0068">
+    <cx:members RDF:resource="rdf:#$9rPZY"/>
+    <cx:markup RDF:resource="rdf:#$arPZY"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$93DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/GKAl2SGfUR7N"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$93DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/HJBta000"
+                   cx:sceneid="Dmzta000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="VILLAGE HOME"
+                   cx:daynight="NIGHT"
+                   dc:title="INT. VILLAGE HOME - NIGHT"
+                   cx:ordinal="34"
+                   cx:sortord="0034">
+    <cx:members RDF:resource="rdf:#$9gMW3"/>
+    <cx:markup RDF:resource="rdf:#$agMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$KmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/h0lCTdVkQbG2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$KmsS5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/H7kN9000"
+                   cx:sceneid="uqhN9000"
+                   cx:location=" "
+                   dc:title="INT. EARLY MORNING BEFORE OPENING BAR - DAY :FIFTH SEM"
+                   cx:intext="INT"
+                   cx:setting="EARLY MORNING BEFORE OPENING BAR - DAY :FIFTH SEM"
+                   cx:ordinal="10"
+                   cx:sortord="0010">
+    <cx:members RDF:resource="rdf:#$TfMW3"/>
+    <cx:markup RDF:resource="rdf:#$UfMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$tnr9C3">
+    <RDF:li RDF:resource="http://celtx.com/res/54bpa9Rk9ghA"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/VjqLdAN3409A"/>
+    <RDF:li RDF:resource="http://celtx.com/res/DtWUbcOFvqHf"/>
+    <RDF:li RDF:resource="http://celtx.com/res/WeOj76KGHfC2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$tnr9C3"
+                   cx:size="5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$5xMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pbCPdCi1MJlW"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$5xMEK2"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$6rPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$5sTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/reZBdxNVHdsN"
+                   dc:title="VINNY" />
+  <RDF:Seq RDF:about="rdf:#$KfMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$ufMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/QHuMCvMCvZjM"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$ufMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$GfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/YvKVlPpgrjXx"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$GfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$r3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/VjqLdAN3409A"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$r3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$asTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/xL7YTu76EiNQ"
+                   dc:title="VICKY" />
+  <RDF:Seq RDF:about="rdf:#$ksTDU1">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/ejjg3000"
+                   cx:sceneid="valm7000"
+                   dc:title="INT. BMTC BUS - DAY"
+                   cx:intext="INT"
+                   cx:setting="BMTC BUS"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   cx:ordinal="69"
+                   cx:sortord="0069">
+    <cx:members RDF:resource="rdf:#$3rPZY"/>
+    <cx:markup RDF:resource="rdf:#$4rPZY"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/rKAM0000"
+                   cx:sceneid="GlAM0000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="PRO TEAM'S OFFICE"
+                   cx:daynight="DAY"
+                   dc:title="INT. PRO TEAM'S OFFICE - DAY"
+                   cx:ordinal="53"
+                   cx:sortord="0053">
+    <cx:members RDF:resource="rdf:#$3jFpj2"/>
+    <cx:markup RDF:resource="rdf:#$4jFpj2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$MmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/e9ZTVw39SIqE"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$MmsS5"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$73DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$73DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/7nHta000"
+                   cx:sceneid="1hGta000"
+                   cx:location=" "
+                   dc:title="INT. GARDEN - DAY"
+                   cx:intext="INT"
+                   cx:setting="GARDEN"
+                   cx:daynight="DAY"
+                   cx:ordinal="33"
+                   cx:sortord="0033">
+    <cx:members RDF:resource="rdf:#$7gMW3"/>
+    <cx:markup RDF:resource="rdf:#$8gMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/0oht1000"
+                   cx:sceneid="zG7t1000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT.EXT  MANY PLACES - DAY"
+                   cx:setting="EXT  MANY PLACES"
+                   cx:ordinal="21"
+                   cx:sortord="0021">
+    <cx:members RDF:resource="rdf:#$j3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$k3DPN1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$95s3h2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$w3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/qn6zI1H6vCXg"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$w3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$TrTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$8xMEK2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$BvKVw3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$qsTDU1">
+    <RDF:li RDF:resource="rdf:#$Pmy1r3"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$p3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/dvzkXS7FXe5M"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$p3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$jgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$arPZY">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/4dmHlnlNfKz5"
+                   dc:title="NAREN" />
+  <RDF:Seq RDF:about="rdf:#$k3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$EvKVw3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$usTDU1">
+    <RDF:li RDF:resource="rdf:#$xklR71"/>
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/tyQE3YpxWXMa"
+                   dc:title="CROWED" />
+  <RDF:Seq RDF:about="rdf:#$gsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$VfMW3">
+    <RDF:li RDF:resource="rdf:#$NmsS5"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/ausk3000"
+                   cx:sceneid="n9sk3000"
+                   cx:location=" "
+                   dc:title="INT.EXT. YET TO BE DECIDED - DAY.NIGHT"
+                   cx:intext="INT"
+                   cx:setting="EXT. YET TO BE DECIDED - DAY"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="63"
+                   cx:sortord="0063">
+    <cx:members RDF:resource="rdf:#$brPZY"/>
+    <cx:markup RDF:resource="rdf:#$crPZY"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/KqmO1000"
+                   cx:sceneid="CkmO1000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   cx:setting="NAREN'S HOME - NIGHT                                 2"
+                   cx:daynight=""
+                   dc:title="INT. NAREN'S HOME - NIGHT                                 2"
+                   cx:ordinal="2"
+                   cx:sortord="0002">
+    <cx:members RDF:resource="rdf:#$QrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$RrTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/LK747000"
+                   cx:sceneid="xu747000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT. NAREN'S HOME - DAY"
+                   cx:setting="NAREN'S HOME"
+                   cx:ordinal="51"
+                   cx:sortord="0051">
+    <cx:members RDF:resource="rdf:#$ysTDU1"/>
+    <cx:markup RDF:resource="rdf:#$zsTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$UfMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/uYeWWOrjc2bx"
+                   dc:title="APPA" />
+  <RDF:Seq RDF:about="rdf:#$ArPZY">
+    <RDF:li RDF:resource="http://celtx.com/res/NLRajj4683q5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$ArPZY">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/FGst1000"
+                   cx:sceneid="7Iit1000"
+                   cx:location=" "
+                   dc:title="INT. BOY'S HOSTEL - NIGHT"
+                   cx:intext="INT"
+                   cx:setting="BOY'S HOSTEL"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="22"
+                   cx:sortord="0022">
+    <cx:members RDF:resource="rdf:#$l3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$m3DPN1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$4hMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/YBfJIOsmXilH"
+                   dc:title="RAM" />
+  <cx:Cast RDF:about="http://celtx.com/res/pbCPdCi1MJlW"
+                   dc:title="HOD" />
+  <RDF:Description RDF:about="http://celtx.com/res/i7aua000"
+                   cx:sceneid="5l9ua000"
+                   cx:location=" "
+                   dc:title="INT. GRANDPA'S OLD OFFICE - DAY"
+                   cx:intext="INT"
+                   cx:setting="GRANDPA'S OLD OFFICE"
+                   cx:daynight="DAY"
+                   cx:ordinal="36"
+                   cx:sortord="0036">
+    <cx:members RDF:resource="rdf:#$dgMW3"/>
+    <cx:markup RDF:resource="rdf:#$egMW3"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/D3tj10zlua4n"
+                   dc:title="FIGURE RAM" />
+  <RDF:Seq RDF:about="rdf:#$ZrTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$jrPZY">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/BwZ0UuyojSPU"/>
+    <RDF:li RDF:resource="http://celtx.com/res/BxkIBHhBcKPw"/>
+    <RDF:li RDF:resource="http://celtx.com/res/h0lCTdVkQbG2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$jrPZY"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$3rPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$PfMW3">
+    <RDF:li RDF:resource="rdf:#$ImsS5"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$sklR71">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$dsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$a3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/MoCr2CBY42YO"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$a3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$VrTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$zrPZY">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/9p8J9000"
+                   cx:sceneid="5c7J9000"
+                   cx:location=" "
+                   dc:title="INT. FUNDING/FINANCE OFFICE - DAY :"
+                   cx:intext="INT"
+                   cx:setting="FUNDING/FINANCE OFFICE - DAY :"
+                   cx:ordinal="58"
+                   cx:sortord="0058">
+    <cx:members RDF:resource="rdf:#$orPZY"/>
+    <cx:markup RDF:resource="rdf:#$prPZY"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$unr9C3">
+    <RDF:li RDF:resource="http://celtx.com/res/DtWUbcOFvqHf"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$unr9C3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/tyid3000"
+                   cx:sceneid="bmid3000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="CHAMUNDI HILLS"
+                   cx:daynight="DAY"
+                   dc:title="EXT. CHAMUNDI HILLS - DAY"
+                   cx:ordinal="28"
+                   cx:sortord="0028">
+    <cx:members RDF:resource="rdf:#$csTDU1"/>
+    <cx:markup RDF:resource="rdf:#$dsTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/fjMsa000"
+                   cx:sceneid="NBLsa000"
+                   cx:location=" "
+                   dc:title="EXT. VILLAGE ROADS - DAY"
+                   cx:intext="EXT"
+                   cx:setting="VILLAGE ROADS"
+                   cx:daynight="DAY"
+                   cx:ordinal="31"
+                   cx:sortord="0031">
+    <cx:members RDF:resource="rdf:#$3gMW3"/>
+    <cx:markup RDF:resource="rdf:#$4gMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$ysTDU1">
+    <RDF:li RDF:resource="rdf:#$wklR71"/>
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/qn6zI1H6vCXg"
+                   dc:title="MECH BOY_3" />
+  <RDF:Description RDF:about="http://celtx.com/res/33dH9000"
+                   cx:sceneid="0b9H9000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="CLASSROOMS, LIBRARIES - DAY : FIRST SEM"
+                   dc:title="INT. CLASSROOMS, LIBRARIES - DAY : FIRST SEM"
+                   cx:ordinal="6"
+                   cx:sortord="0006">
+    <cx:members RDF:resource="rdf:#$JfMW3"/>
+    <cx:markup RDF:resource="rdf:#$KfMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$bsTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/54bpa9Rk9ghA"
+                   dc:title="MECH BOY_VP" />
+  <cx:Cast RDF:about="http://celtx.com/res/FYJVhqArbglE"
+                   dc:title="   " />
+  <RDF:Seq RDF:about="rdf:#$1gMW3">
+    <RDF:li RDF:resource="rdf:#$FfOGb2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$AfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/uYeWWOrjc2bx"/>
+    <RDF:li RDF:resource="http://celtx.com/res/38WZWwspSpR4"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/NWiYPWUSzWmH"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$AfMW3"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$psTDU1">
+  </RDF:Seq>
+  <cx:Project RDF:about="http://celtx.com/project/a587JRDQshaQ"
+                   cx:fileVersion="1.4"
+                   dc:title="9th"
+                   dc:modified="2026-10-19T05:14:24Z">
+    <cx:components RDF:resource="http://celtx.com/res/U0xHoW9oCmfD"/>
+  </cx:Project>
+  <RDF:Seq RDF:about="rdf:#$AvKVw3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/yW2lsfYeNwrV"
+                   dc:title="APPAJI" />
+  <cx:Cast RDF:about="http://celtx.com/res/qzN8q8CIlCge"
+                   dc:title="DAD" />
+  <RDF:Seq RDF:about="rdf:#$tfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/9A8OPb3h3JMk"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$tfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Cast RDF:about="http://celtx.com/res/DtWUbcOFvqHf"
+                   dc:title="NISHCHAL" />
+  <RDF:Description RDF:about="http://celtx.com/res/0Au23000"
+                   cx:sceneid="lmu23000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="GRAND PARENTS VILLAGE"
+                   cx:daynight="DAY"
+                   dc:title="EXT. GRAND PARENTS VILLAGE - DAY"
+                   cx:ordinal="41"
+                   cx:sortord="0041">
+    <cx:members RDF:resource="rdf:#$esTDU1"/>
+    <cx:markup RDF:resource="rdf:#$fsTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$6sTDU1">
+    <RDF:li RDF:resource="rdf:#$tnr9C3"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/1Mr8c000"
+                   cx:sceneid="btq8c000"
+                   cx:intext="INT"
+                   cx:setting="LANGDA'S OFFICE WORK - DAY"
+                   cx:location=" "
+                   dc:title="INT. LANGDA'S OFFICE WORK - DAY."
+                   cx:ordinal="47"
+                   cx:sortord="0047">
+    <cx:members RDF:resource="rdf:#$7hMW3"/>
+    <cx:markup RDF:resource="rdf:#$8hMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/hqia2000"
+                   cx:sceneid="1gia2000"
+                   cx:intext="EXT"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   dc:title="EXT. AUDITORIUM/DAY BEFORE ELECTIONS  - DAY"
+                   cx:setting="AUDITORIUM/DAY BEFORE ELECTIONS "
+                   cx:ordinal="24"
+                   cx:sortord="0024">
+    <cx:members RDF:resource="rdf:#$6sTDU1"/>
+    <cx:markup RDF:resource="rdf:#$7sTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/geOsa000"
+                   cx:sceneid="3zMsa000"
+                   cx:location=" "
+                   dc:title="INT. VILLAGE HOME - DAY"
+                   cx:intext="INT"
+                   cx:setting="VILLAGE HOME"
+                   cx:daynight="DAY"
+                   cx:ordinal="29"
+                   cx:sortord="0029">
+    <cx:members RDF:resource="rdf:#$+fMW3"/>
+    <cx:markup RDF:resource="rdf:#$0gMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/pal71000"
+                   cx:sceneid="KOl71000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   cx:setting="NAREN'S HOME - DAY                                   4"
+                   cx:daynight=""
+                   dc:title="INT. NAREN'S HOME - DAY                                   4"
+                   cx:ordinal="4"
+                   cx:sortord="0004">
+    <cx:members RDF:resource="rdf:#$SrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$TrTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/733O1000"
+                   cx:sceneid="Lk2O1000"
+                   cx:intext="INT"
+                   cx:setting="HOD CUBICLE"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   dc:title="INT. HOD CUBICLE - DAY"
+                   cx:ordinal="14"
+                   cx:sortord="0014">
+    <cx:members RDF:resource="rdf:#$0sTDU1"/>
+    <cx:markup RDF:resource="rdf:#$1sTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$agMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/e9ZTVw39SIqE"
+                   dc:title="RAJ" />
+  <RDF:Seq RDF:about="rdf:#$9gMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$CfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/h0lCTdVkQbG2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$CfOGb2"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$WfMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$EfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/mI2fwGzobx4o"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$EfOGb2"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$f3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$AklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/C7uvQm4VaEz9"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$AklR71">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$AsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$NmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$NmsS5"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$gxMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/NWiYPWUSzWmH"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$gxMEK2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/hvzb3000"
+                   cx:sceneid="Jazb3000"
+                   cx:location=" "
+                   dc:title="INT.EXT. YET TO BE DECIDED - DAY.NIGHT"
+                   cx:intext="INT"
+                   cx:setting="EXT. YET TO BE DECIDED - DAY"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="65"
+                   cx:sortord="0065">
+    <cx:members RDF:resource="rdf:#$frPZY"/>
+    <cx:markup RDF:resource="rdf:#$grPZY"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$1sTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="http://celtx.com/res/U0xHoW9oCmfD">
+    <RDF:li RDF:resource="http://celtx.com/res/9uEellKm1xdh"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/pkazd000"
+                   cx:sceneid="8wazd000"
+                   cx:location=" "
+                   dc:title="EXT. GANDHINAGARA MOVIE OFFICES - DAY : MEETING SOME STAR OR AT LEAST TV STAR"
+                   cx:intext="EXT"
+                   cx:setting="GANDHINAGARA MOVIE OFFICES - DAY : MEETING SOME STAR OR AT LEAST TV STAR"
+                   cx:ordinal="56"
+                   cx:sortord="0056">
+    <cx:members RDF:resource="rdf:#$3hMW3"/>
+    <cx:markup RDF:resource="rdf:#$4hMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$IrTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$KQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/tyQE3YpxWXMa"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$KQ49H2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$7gMW3">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/aB0u1000"
+                   cx:sceneid="3JGu1000"
+                   cx:location=" "
+                   dc:title="INT. HOSTEL TO HOSPITAL - NIGHT"
+                   cx:intext="INT"
+                   cx:setting="HOSTEL TO HOSPITAL"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="23"
+                   cx:sortord="0023">
+    <cx:members RDF:resource="rdf:#$n3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$o3DPN1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$frPZY">
+    <RDF:li RDF:resource="rdf:#$BklR71"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/3noJ3000"
+                   cx:sceneid="Bk9J3000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   dc:title="INT. BAR/CS  - DAY : PLANNING THE GREAT PLAN FOR TAKING OVER"
+                   cx:setting="BAR/CS  - DAY : PLANNING THE GREAT PLAN FOR TAKING OVER"
+                   cx:ordinal="13"
+                   cx:sortord="0013">
+    <cx:members RDF:resource="rdf:#$AfOGb2"/>
+    <cx:markup RDF:resource="rdf:#$BfOGb2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$GmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$GmsS5"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$CrPZY">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$CrPZY"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Cast RDF:about="http://celtx.com/res/YvKVlPpgrjXx"
+                   dc:title="SHIVA" />
+  <RDF:Seq RDF:about="rdf:#$uklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/NLRajj4683q5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$uklR71"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/fxxH5000"
+                   cx:sceneid="mhxH5000"
+                   cx:location=" "
+                   dc:title="EXT. CHANNAKESHAVA BAR/ROAD - NIGHT"
+                   cx:intext="EXT"
+                   cx:setting="CHANNAKESHAVA BAR/ROAD"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="45"
+                   cx:sortord="0045">
+    <cx:members RDF:resource="rdf:#$osTDU1"/>
+    <cx:markup RDF:resource="rdf:#$psTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$4rPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$NgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$+qPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$HmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$HmsS5"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$grPZY">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/0ghjw000"
+                   cx:sceneid="08H30000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   cx:setting="DAKSH'S HOME/DAKSH'S ROOM : NIGHT - DAKSH AND SMRITI SPENDING TIME.IJ_1B"
+                   dc:title="INT.DAKSH'S HOME/DAKSH'S ROOM : NIGHT - DAKSH AND SMRITI SPENDING TIME.IJ_1B"
+                   cx:ordinal="72"
+                   cx:sortord="0072">
+    <cx:members RDF:resource="rdf:#$AvKVw3"/>
+    <cx:markup RDF:resource="rdf:#$BvKVw3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$o3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$CfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/9GSf3N0LxNeQ"/>
+    <RDF:li RDF:resource="http://celtx.com/res/YvKVlPpgrjXx"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pbCPdCi1MJlW"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$CfMW3"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$GvKVw3">
+    <RDF:li RDF:resource="http://celtx.com/res/a3d4RZIPsqp7"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$GvKVw3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$4sTDU1">
+    <RDF:li RDF:resource="rdf:#$q3DPN1"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$t3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/XAQW8C3y0q3L"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$t3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$rklR71">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$CklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/xL7YTu76EiNQ"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$CklR71">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$igMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$HrTDU1">
+    <RDF:li RDF:resource="rdf:#$rfMW3"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/k9Ha1000"
+                   cx:sceneid="wmGa1000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   cx:setting="EXT. ITI LAYOUT - DAY.NIGHT                           3"
+                   cx:daynight=""
+                   dc:title="INT.EXT. ITI LAYOUT - DAY.NIGHT                           3"
+                   cx:ordinal="3"
+                   cx:sortord="0003">
+    <cx:members RDF:resource="rdf:#$UrTDU1"/>
+    <cx:markup RDF:resource="rdf:#$VrTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$q3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/dvzkXS7FXe5M"/>
+    <RDF:li RDF:resource="http://celtx.com/res/VjqLdAN3409A"/>
+    <RDF:li RDF:resource="http://celtx.com/res/54bpa9Rk9ghA"/>
+    <RDF:li RDF:resource="http://celtx.com/res/XAQW8C3y0q3L"/>
+    <RDF:li RDF:resource="http://celtx.com/res/qn6zI1H6vCXg"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$q3DPN1"
+                   cx:size="5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$JmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$JmsS5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$ZiFpj2">
+    <RDF:li RDF:resource="rdf:#$CrPZY"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$4jFpj2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$cgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$zsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$OfMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$zgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$QrTDU1">
+    <RDF:li RDF:resource="rdf:#$wfMW3"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/tEKva000"
+                   cx:sceneid="seIva000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:daynight="DAY"
+                   cx:setting="VILLAGE HOME,OUTSIDE"
+                   dc:title="EXT. VILLAGE HOME,OUTSIDE - DAY"
+                   cx:ordinal="39"
+                   cx:sortord="0039">
+    <cx:members RDF:resource="rdf:#$ngMW3"/>
+    <cx:markup RDF:resource="rdf:#$ogMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$xklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/X1Ks16mWO8qU"/>
+    <RDF:li RDF:resource="http://celtx.com/res/PFp0k9FtK7Q8"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$xklR71"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$x3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/o47YGnBQCgCj"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$x3DPN1"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$pfMW3">
+    <RDF:li RDF:resource="rdf:#$qfMW3"/>
+    <RDF:li RDF:resource="rdf:#$sfMW3"/>
+    <RDF:li RDF:resource="rdf:#$tfMW3"/>
+    <RDF:li RDF:resource="rdf:#$ufMW3"/>
+    <RDF:li RDF:resource="rdf:#$vfMW3"/>
+    <RDF:li RDF:resource="rdf:#$xfMW3"/>
+    <RDF:li RDF:resource="rdf:#$yfMW3"/>
+    <RDF:li RDF:resource="rdf:#$zfMW3"/>
+    <RDF:li RDF:resource="rdf:#$BfMW3"/>
+    <RDF:li RDF:resource="rdf:#$DfMW3"/>
+    <RDF:li RDF:resource="rdf:#$FfMW3"/>
+    <RDF:li RDF:resource="rdf:#$GfMW3"/>
+    <RDF:li RDF:resource="rdf:#$ArPZY"/>
+    <RDF:li RDF:resource="rdf:#$vklR71"/>
+    <RDF:li RDF:resource="rdf:#$yklR71"/>
+    <RDF:li RDF:resource="rdf:#$zklR71"/>
+    <RDF:li RDF:resource="rdf:#$AklR71"/>
+    <RDF:li RDF:resource="rdf:#$CklR71"/>
+    <RDF:li RDF:resource="rdf:#$EmsS5"/>
+    <RDF:li RDF:resource="rdf:#$FmsS5"/>
+    <RDF:li RDF:resource="rdf:#$JmsS5"/>
+    <RDF:li RDF:resource="rdf:#$KmsS5"/>
+    <RDF:li RDF:resource="rdf:#$LmsS5"/>
+    <RDF:li RDF:resource="rdf:#$gfOGb2"/>
+    <RDF:li RDF:resource="rdf:#$hfOGb2"/>
+    <RDF:li RDF:resource="rdf:#$DfOGb2"/>
+    <RDF:li RDF:resource="rdf:#$6xMEK2"/>
+    <RDF:li RDF:resource="rdf:#$dxMEK2"/>
+    <RDF:li RDF:resource="rdf:#$fxMEK2"/>
+    <RDF:li RDF:resource="rdf:#$gxMEK2"/>
+    <RDF:li RDF:resource="rdf:#$73DPN1"/>
+    <RDF:li RDF:resource="rdf:#$93DPN1"/>
+    <RDF:li RDF:resource="rdf:#$a3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$p3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$r3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$s3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$t3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$w3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$A3DPN1"/>
+    <RDF:li RDF:resource="rdf:#$unr9C3"/>
+    <RDF:li RDF:resource="rdf:#$vnr9C3"/>
+    <RDF:li RDF:resource="rdf:#$Nmy1r3"/>
+    <RDF:li RDF:resource="rdf:#$Omy1r3"/>
+    <RDF:li RDF:resource="rdf:#$JQ49H2"/>
+    <RDF:li RDF:resource="rdf:#$KQ49H2"/>
+    <RDF:li RDF:resource="rdf:#$MQ49H2"/>
+    <RDF:li RDF:resource="rdf:#$NQ49H2"/>
+    <RDF:li RDF:resource="rdf:#$qjrQV3"/>
+    <RDF:li RDF:resource="rdf:#$GvKVw3"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$0sTDU1">
+    <RDF:li RDF:resource="rdf:#$CfMW3"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$JfMW3">
+    <RDF:li RDF:resource="rdf:#$F3DPN1"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/Eo7A3000"
+                   cx:sceneid="cF7A3000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="NIGHT"
+                   dc:title="INT.EXT. PATHO SONG - DAY.NIGHT"
+                   cx:setting="EXT. PATHO SONG - DAY"
+                   cx:ordinal="52"
+                   cx:sortord="0052">
+    <cx:members RDF:resource="rdf:#$+qPZY"/>
+    <cx:markup RDF:resource="rdf:#$0rPZY"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/lqO9D6e2OBIP"
+                   dc:title=" " />
+  <RDF:Description RDF:about="http://celtx.com/res/ggbw7000"
+                   cx:sceneid="p4Ow7000"
+                   dc:title="INT. BASKET BALL COURT - DAY/EVENING"
+                   cx:intext="INT"
+                   cx:setting="BASKET BALL COURT - DAY/"
+                   cx:daynight="EVENING"
+                   cx:location=" "
+                   cx:ordinal="20"
+                   cx:sortord="0020">
+    <cx:members RDF:resource="rdf:#$D3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$E3DPN1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/k1xt5000"
+                   cx:sceneid="5Ext5000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT.NAREN'S HOME/ BIRTHDAY PARTY - DAY"
+                   cx:setting="NAREN'S HOME/ BIRTHDAY PARTY"
+                   cx:ordinal="43"
+                   cx:sortord="0043">
+    <cx:members RDF:resource="rdf:#$ksTDU1"/>
+    <cx:markup RDF:resource="rdf:#$lsTDU1"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/9A8OPb3h3JMk"
+                   dc:title="SIDDU" />
+  <RDF:Description RDF:about="http://celtx.com/res/38is1000"
+                   cx:sceneid="0p8s1000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT. HOD CUBICLE/ STAFF ROOM - DAY"
+                   cx:setting="HOD CUBICLE/ STAFF ROOM"
+                   cx:ordinal="19"
+                   cx:sortord="0019">
+    <cx:members RDF:resource="rdf:#$f3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$g3DPN1"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/MoCr2CBY42YO"
+                   dc:title="PRAKASH" />
+  <cx:Cast RDF:about="http://celtx.com/res/BwZ0UuyojSPU"
+                   dc:title="PRATHA" />
+  <RDF:Seq RDF:about="rdf:#$3jFpj2">
+    <RDF:li RDF:resource="rdf:#$uklR71"/>
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/TgJfVBLQWc3z"
+                   dc:title="SHARAN" />
+  <RDF:Seq RDF:about="rdf:#$fxMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/ERurd8zDXhoG"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$fxMEK2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$JrTDU1">
+    <RDF:li>Plot A</RDF:li>
+    <RDF:li>Plot B</RDF:li>
+    <RDF:li>Plot C</RDF:li>
+    <RDF:li>Plot D</RDF:li>
+    <RDF:li>Plot E</RDF:li>
+    <RDF:li>Plot F</RDF:li>
+    <RDF:li>Plot G</RDF:li>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$XrTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$A3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/o47YGnBQCgCj"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$A3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$7hMW3">
+  </RDF:Seq>
+  <cx:Document RDF:about="http://celtx.com/res/ovlpPZAG65Pp"
+                   dc:title="Production Schedule">
+    <cx:doctype RDF:resource="http://celtx.com/NS/v1/ScheduleDocument"/>
+    <dc:source RDF:resource="http://celtx.com/res/1kEqvojZWTHA"/>
+    <cx:localFile>schedule.ics</cx:localFile>
+    <cx:localFile>schedule-1.ics</cx:localFile>
+    <cx:localFile>schedule-2.ics</cx:localFile>
+    <cx:localFile>schedule-3.ics</cx:localFile>
+    <cx:localFile>schedule-4.ics</cx:localFile>
+  </cx:Document>
+  <RDF:Seq RDF:about="rdf:#$sfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$sfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Document RDF:about="http://celtx.com/res/defaultsketchdoc"
+                   dc:title="Sketch">
+    <cx:doctype RDF:resource="http://celtx.com/NS/v1/SingleShotDocument"/>
+  </cx:Document>
+  <RDF:Seq RDF:about="rdf:#$kgMW3">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/3hJp0000"
+                   cx:sceneid="KIJp0000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="COLLEGE AUDITORIUM"
+                   cx:daynight="DAY"
+                   dc:title="EXT. COLLEGE AUDITORIUM - DAY"
+                   cx:ordinal="59"
+                   cx:sortord="0059">
+    <cx:members RDF:resource="rdf:#$ZiFpj2"/>
+    <cx:markup RDF:resource="rdf:#$.iFpj2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$ImsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/h0lCTdVkQbG2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$ImsS5"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/fb233000"
+                   cx:sceneid="5l233000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="EXT. YET TO BE DECIDED - DAY"
+                   cx:daynight="NIGHT"
+                   dc:title="INT.EXT. YET TO BE DECIDED - DAY.NIGHT"
+                   cx:ordinal="67"
+                   cx:sortord="0067">
+    <cx:members RDF:resource="rdf:#$5rPZY"/>
+    <cx:markup RDF:resource="rdf:#$6rPZY"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/J1gr1000"
+                   cx:sceneid="uy5r1000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="CS LAB - DAY/"
+                   cx:daynight="NIGHT"
+                   dc:title="INT. CS LAB - DAY/NIGHT"
+                   cx:ordinal="18"
+                   cx:sortord="0018">
+    <cx:members RDF:resource="rdf:#$d3DPN1"/>
+    <cx:markup RDF:resource="rdf:#$e3DPN1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$9rPZY">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/E4Dsa000"
+                   cx:sceneid="gnBsa000"
+                   cx:location=" "
+                   dc:title="INT. VILLAGE - DAY/NIGHT"
+                   cx:intext="INT"
+                   cx:setting="VILLAGE - DAY/"
+                   cx:daynight="NIGHT"
+                   cx:ordinal="30"
+                   cx:sortord="0030">
+    <cx:members RDF:resource="rdf:#$1gMW3"/>
+    <cx:markup RDF:resource="rdf:#$2gMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$LQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/tyQE3YpxWXMa"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$LQ49H2"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$rsTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/ERurd8zDXhoG"
+                   dc:title="SHARANMAGA PLEASE WAIT MAADO NAND ARRANGE MARRIAGE AAGBEKU! EEG ENO SIKKANGAGIDE, ENGINEERING COMPLETE MAADU NAANE HELP MAADTINI&quot;" />
+  <RDF:Seq RDF:about="rdf:#$trPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$D3DPN1">
+    <RDF:li RDF:resource="rdf:#$IQ49H2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$Omy1r3">
+    <RDF:li RDF:resource="http://celtx.com/res/w9jwwENFNXaj"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$Omy1r3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$JgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$Pmy1r3">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/X1Ks16mWO8qU"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$Pmy1r3"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$e3DPN1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/o47YGnBQCgCj"
+                   dc:title="COMPLETE THIS ASAP." />
+  <RDF:Description RDF:about="http://celtx.com/res/gOhjw000"
+                   cx:sceneid="b2ca0000"
+                   cx:intext="INT"
+                   cx:location=" "
+                   dc:title="INT.DAKSH'S HOME/DAKSH'S ROOM : NIGHT - OUTSIDE THE ROOM NAREN SHOUTING. IJ_1"
+                   cx:setting="DAKSH'S HOME/DAKSH'S ROOM : NIGHT - OUTSIDE THE ROOM NAREN SHOUTING. IJ_1"
+                   cx:ordinal="70"
+                   cx:sortord="0070">
+    <cx:members RDF:resource="rdf:#$EvKVw3"/>
+    <cx:markup RDF:resource="rdf:#$FvKVw3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$hfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/BxkIBHhBcKPw"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$hfOGb2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$LfMW3">
+    <RDF:li RDF:resource="rdf:#$GmsS5"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/cddua000"
+                   cx:sceneid="alcua000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="NIGHT"
+                   cx:setting="SOME STORAGE/GODOWN"
+                   dc:title="INT. SOME STORAGE/GODOWN - NIGHT"
+                   cx:ordinal="37"
+                   cx:sortord="0037">
+    <cx:members RDF:resource="rdf:#$hgMW3"/>
+    <cx:markup RDF:resource="rdf:#$igMW3"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/WeOj76KGHfC2"
+                   dc:title="CHINKY" />
+  <RDF:Description RDF:about="http://celtx.com/res/PmBta000"
+                   cx:sceneid="9czta000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   cx:setting="BUS ( PANCHALINGESHWARA TRAVELS)"
+                   dc:title="INT. BUS ( PANCHALINGESHWARA TRAVELS) - DAY"
+                   cx:ordinal="32"
+                   cx:sortord="0032">
+    <cx:members RDF:resource="rdf:#$5gMW3"/>
+    <cx:markup RDF:resource="rdf:#$6gMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$0rPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$1jFpj2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$d3DPN1">
+    <RDF:li RDF:resource="rdf:#$x3DPN1"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$osTDU1">
+    <RDF:li RDF:resource="rdf:#$Mmy1r3"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$n3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$NfMW3">
+    <RDF:li RDF:resource="rdf:#$HmsS5"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$prPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$3sTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$hsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$IQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/54bpa9Rk9ghA"/>
+    <RDF:li RDF:resource="http://celtx.com/res/WeOj76KGHfC2"/>
+    <RDF:li RDF:resource="http://celtx.com/res/VjqLdAN3409A"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Oso7HR6emKyQ"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$IQ49H2"
+                   cx:size="5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$9hMW3">
+    <RDF:li RDF:resource="rdf:#$zfOGb2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$BrPZY">
+    <RDF:li RDF:resource="http://celtx.com/res/NLRajj4683q5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$BrPZY"
+                   cx:size="2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$FrTDU1">
+    <RDF:li RDF:resource="http://celtx.com/res/YBfJIOsmXilH"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/9A8OPb3h3JMk"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QHuMCvMCvZjM"/>
+    <RDF:li RDF:resource="http://celtx.com/res/uYeWWOrjc2bx"/>
+    <RDF:li RDF:resource="http://celtx.com/res/38WZWwspSpR4"/>
+    <RDF:li RDF:resource="http://celtx.com/res/gqxKjVlMcjxe"/>
+    <RDF:li RDF:resource="http://celtx.com/res/9GSf3N0LxNeQ"/>
+    <RDF:li RDF:resource="http://celtx.com/res/YvKVlPpgrjXx"/>
+    <RDF:li RDF:resource="http://celtx.com/res/NLRajj4683q5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/qzN8q8CIlCge"/>
+    <RDF:li RDF:resource="http://celtx.com/res/X1Ks16mWO8qU"/>
+    <RDF:li RDF:resource="http://celtx.com/res/PFp0k9FtK7Q8"/>
+    <RDF:li RDF:resource="http://celtx.com/res/C7uvQm4VaEz9"/>
+    <RDF:li RDF:resource="http://celtx.com/res/xL7YTu76EiNQ"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Qf72Jg5arAPd"/>
+    <RDF:li RDF:resource="http://celtx.com/res/AmlD7bC5lL1w"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QhZ5yH9CBGhO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/h0lCTdVkQbG2"/>
+    <RDF:li RDF:resource="http://celtx.com/res/e9ZTVw39SIqE"/>
+    <RDF:li RDF:resource="http://celtx.com/res/BwZ0UuyojSPU"/>
+    <RDF:li RDF:resource="http://celtx.com/res/BxkIBHhBcKPw"/>
+    <RDF:li RDF:resource="http://celtx.com/res/mI2fwGzobx4o"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pbCPdCi1MJlW"/>
+    <RDF:li RDF:resource="http://celtx.com/res/TgJfVBLQWc3z"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ERurd8zDXhoG"/>
+    <RDF:li RDF:resource="http://celtx.com/res/NWiYPWUSzWmH"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/GKAl2SGfUR7N"/>
+    <RDF:li RDF:resource="http://celtx.com/res/MoCr2CBY42YO"/>
+    <RDF:li RDF:resource="http://celtx.com/res/dvzkXS7FXe5M"/>
+    <RDF:li RDF:resource="http://celtx.com/res/VjqLdAN3409A"/>
+    <RDF:li RDF:resource="http://celtx.com/res/54bpa9Rk9ghA"/>
+    <RDF:li RDF:resource="http://celtx.com/res/XAQW8C3y0q3L"/>
+    <RDF:li RDF:resource="http://celtx.com/res/qn6zI1H6vCXg"/>
+    <RDF:li RDF:resource="http://celtx.com/res/o47YGnBQCgCj"/>
+    <RDF:li RDF:resource="http://celtx.com/res/DtWUbcOFvqHf"/>
+    <RDF:li RDF:resource="http://celtx.com/res/WeOj76KGHfC2"/>
+    <RDF:li RDF:resource="http://celtx.com/res/lqO9D6e2OBIP"/>
+    <RDF:li RDF:resource="http://celtx.com/res/w9jwwENFNXaj"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Oso7HR6emKyQ"/>
+    <RDF:li RDF:resource="http://celtx.com/res/tyQE3YpxWXMa"/>
+    <RDF:li RDF:resource="http://celtx.com/res/FYJVhqArbglE"/>
+    <RDF:li RDF:resource="http://celtx.com/res/yW2lsfYeNwrV"/>
+    <RDF:li RDF:resource="http://celtx.com/res/D3tj10zlua4n"/>
+    <RDF:li RDF:resource="http://celtx.com/res/a3d4RZIPsqp7"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$tklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/NLRajj4683q5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$tklR71"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$AgMW3">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/5gj7c000"
+                   cx:sceneid="xij7c000"
+                   dc:title="INT. LANGDA'S OFFICE WORK - DAY."
+                   cx:intext="INT"
+                   cx:setting="LANGDA'S OFFICE WORK - DAY"
+                   cx:location=" "
+                   cx:ordinal="49"
+                   cx:sortord="0049">
+    <cx:members RDF:resource="rdf:#$NgMW3"/>
+    <cx:markup RDF:resource="rdf:#$OgMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/cyJwa000"
+                   cx:sceneid="0JIwa000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="PRO TEAM'S OFFICE"
+                   cx:daynight="DAY"
+                   dc:title="INT. PRO TEAM'S OFFICE - DAY"
+                   cx:ordinal="57"
+                   cx:sortord="0057">
+    <cx:members RDF:resource="rdf:#$yrPZY"/>
+    <cx:markup RDF:resource="rdf:#$zrPZY"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/JLe13000"
+                   cx:sceneid="nu413000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT. NAREN'S HOME - DAY"
+                   cx:setting="NAREN'S HOME"
+                   cx:ordinal="25"
+                   cx:sortord="0025">
+    <cx:members RDF:resource="rdf:#$bxMEK2"/>
+    <cx:markup RDF:resource="rdf:#$cxMEK2"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/uh70c000"
+                   cx:sceneid="j740c000"
+                   dc:title="EXT. VILLAGE HOME/ OUTSIDE - DAY"
+                   cx:intext="EXT"
+                   cx:setting="VILLAGE HOME/ OUTSIDE"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   cx:ordinal="40"
+                   cx:sortord="0040">
+    <cx:members RDF:resource="rdf:#$JgMW3"/>
+    <cx:markup RDF:resource="rdf:#$KgMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$xfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/uYeWWOrjc2bx"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$xfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/3pGJ9000"
+                   cx:sceneid="QiCJ9000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="TRIP PLAN - DAY :FOURTH SEM"
+                   dc:title="EXT. TRIP PLAN - DAY :FOURTH SEM"
+                   cx:ordinal="9"
+                   cx:sortord="0009">
+    <cx:members RDF:resource="rdf:#$PfMW3"/>
+    <cx:markup RDF:resource="rdf:#$QfMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$LmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/e9ZTVw39SIqE"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$LmsS5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$7xMEK2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$Mmy1r3">
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/lqO9D6e2OBIP"/>
+    <RDF:li RDF:resource="http://celtx.com/res/w9jwwENFNXaj"/>
+    <RDF:li RDF:resource="http://celtx.com/res/FYJVhqArbglE"/>
+    <RDF:li RDF:resource="http://celtx.com/res/yW2lsfYeNwrV"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$Mmy1r3"
+                   cx:size="5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/Dbb22000"
+                   cx:sceneid="Eoa22000"
+                   cx:intext="INT"
+                   cx:setting="COLLEGE CANTEEN"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   dc:title="INT. COLLEGE CANTEEN - DAY"
+                   cx:ordinal="17"
+                   cx:sortord="0017">
+    <cx:members RDF:resource="rdf:#$4sTDU1"/>
+    <cx:markup RDF:resource="rdf:#$5sTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$wsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$lsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$hgMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/9GSf3N0LxNeQ"
+                   dc:title="SHARATH" />
+  <RDF:Seq RDF:about="rdf:#$g3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$ngMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$ogMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$QfMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/gqxKjVlMcjxe"
+                   dc:title="SADE" />
+  <RDF:Seq RDF:about="rdf:#$FfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/9GSf3N0LxNeQ"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$FfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$m3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$yrPZY">
+    <RDF:li RDF:resource="rdf:#$BrPZY"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$bgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$3gMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$4gMW3">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/bu83d000"
+                   cx:sceneid="Qj83d000"
+                   dc:title="EXT. DHARAGA, TAANDYA AND COMMUNITY PLACES - DAY/NIGHT"
+                   cx:intext="EXT"
+                   cx:setting="DHARAGA, TAANDYA AND COMMUNITY PLACES - DAY/"
+                   cx:daynight="NIGHT"
+                   cx:location=" "
+                   cx:ordinal="55"
+                   cx:sortord="0055">
+    <cx:members RDF:resource="rdf:#$9hMW3"/>
+    <cx:markup RDF:resource="rdf:#$ahMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$0jFpj2">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/h5eo3000"
+                   cx:sceneid="1Leo3000"
+                   cx:intext="EXT"
+                   cx:daynight="DAY"
+                   cx:location=" "
+                   cx:setting="VILLAGE/ MEETING GRANNY"
+                   dc:title="EXT. VILLAGE/ MEETING GRANNY - DAY"
+                   cx:ordinal="27"
+                   cx:sortord="0027">
+    <cx:members RDF:resource="rdf:#$asTDU1"/>
+    <cx:markup RDF:resource="rdf:#$bsTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$vklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/qzN8q8CIlCge"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$vklR71">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/stPG2000"
+                   cx:sceneid="diPG2000"
+                   cx:intext="EXT"
+                   cx:setting="INT MEGHA'S VILLAGE HOME"
+                   cx:daynight="DAY"
+                   dc:title="EXT.INT MEGHA'S VILLAGE HOME - DAY"
+                   cx:location=" "
+                   cx:ordinal="26"
+                   cx:sortord="0026">
+    <cx:members RDF:resource="rdf:#$8sTDU1"/>
+    <cx:markup RDF:resource="rdf:#$9sTDU1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/ooeC2000"
+                   cx:sceneid="Gf1C2000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="MECH HOD CUBICLE"
+                   cx:daynight="DAY"
+                   dc:title="INT. MECH HOD CUBICLE - DAY"
+                   cx:ordinal="16"
+                   cx:sortord="0016">
+    <cx:members RDF:resource="rdf:#$7xMEK2"/>
+    <cx:markup RDF:resource="rdf:#$8xMEK2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$6xMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/pbCPdCi1MJlW"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$6xMEK2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$zfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$zfOGb2"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/8QgO9000"
+                   cx:sceneid="l3dO9000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="CLASSROOM - DAY :SIXTH SEM"
+                   dc:title="INT. CLASSROOM - DAY :SIXTH SEM"
+                   cx:ordinal="11"
+                   cx:sortord="0011">
+    <cx:members RDF:resource="rdf:#$VfMW3"/>
+    <cx:markup RDF:resource="rdf:#$WfMW3"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/BxkIBHhBcKPw"
+                   dc:title="PRATHAM" />
+  <RDF:Seq RDF:about="rdf:#$DvKVw3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$vsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$exMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/TgJfVBLQWc3z"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ERurd8zDXhoG"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+    <RDF:li RDF:resource="http://celtx.com/res/a3d4RZIPsqp7"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$exMEK2"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$FvKVw3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$ahMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$UrTDU1">
+    <RDF:li RDF:resource="rdf:#$AmsS5"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$NQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/yW2lsfYeNwrV"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$NQ49H2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$RrTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/AmlD7bC5lL1w"
+                   dc:title="FRIENDVN" />
+  <RDF:Description RDF:about="http://celtx.com/res/Fgpbb000"
+                   cx:sceneid="a5pbb000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="VILLAGE ROADS - DAY. LET'S WALK AND TALK SAGA"
+                   dc:title="EXT. VILLAGE ROADS - DAY. LET'S WALK AND TALK SAGA."
+                   cx:ordinal="48"
+                   cx:sortord="0048">
+    <cx:members RDF:resource="rdf:#$zgMW3"/>
+    <cx:markup RDF:resource="rdf:#$AgMW3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/wr7o5000"
+                   cx:sceneid="q17o5000"
+                   cx:location=" "
+                   dc:title="INT. HIS CURRENT COMPANY/ MEETING ROOM - DAY"
+                   cx:intext="INT"
+                   cx:setting="HIS CURRENT COMPANY/ MEETING ROOM"
+                   cx:daynight="DAY"
+                   cx:ordinal="46"
+                   cx:sortord="0046">
+    <cx:members RDF:resource="rdf:#$wsTDU1"/>
+    <cx:markup RDF:resource="rdf:#$xsTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$zfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/jpMQ0N4YLXHT"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$zfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$yfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/38WZWwspSpR4"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$yfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$esTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/mI2fwGzobx4o"
+                   dc:title="CHENNAPPA" />
+  <RDF:Seq RDF:about="rdf:#$2sTDU1">
+    <RDF:li RDF:resource="rdf:#$83DPN1"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$srPZY">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/pgQm3000"
+                   cx:sceneid="mPQm3000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:daynight="NIGHT"
+                   cx:setting="ROAD BLACK SMITH'S SHOP"
+                   dc:title="EXT. ROAD BLACK SMITH'S SHOP - NIGHT"
+                   cx:ordinal="66"
+                   cx:sortord="0066">
+    <cx:members RDF:resource="rdf:#$1rPZY"/>
+    <cx:markup RDF:resource="rdf:#$2rPZY"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="http://celtx.com/res/988va000"
+                   cx:sceneid="307va000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:setting="PANCHAYATH HALL"
+                   cx:daynight="DAY"
+                   dc:title="EXT. PANCHAYATH HALL - DAY"
+                   cx:ordinal="38"
+                   cx:sortord="0038">
+    <cx:members RDF:resource="rdf:#$jgMW3"/>
+    <cx:markup RDF:resource="rdf:#$kgMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$9sTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/w9jwwENFNXaj"
+                   dc:title="SOMEONE" />
+  <RDF:Seq RDF:about="rdf:#$E3DPN1">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/P0dt0000"
+                   cx:sceneid="0sdt0000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="DAY"
+                   dc:title="INT. LANGDA'S OFFICE - DAY"
+                   cx:setting="LANGDA'S OFFICE"
+                   cx:ordinal="61"
+                   cx:sortord="0061">
+    <cx:members RDF:resource="rdf:#$+iFpj2"/>
+    <cx:markup RDF:resource="rdf:#$0jFpj2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$WrTDU1">
+    <RDF:li RDF:resource="rdf:#$BmsS5"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$BklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/C7uvQm4VaEz9"/>
+    <RDF:li RDF:resource="http://celtx.com/res/xL7YTu76EiNQ"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/DtWUbcOFvqHf"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$BklR71"
+                   cx:size="4">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Description RDF:about="http://celtx.com/res/f7557000"
+                   cx:sceneid="9f457000"
+                   cx:location=" "
+                   cx:intext="EXT"
+                   cx:daynight="NIGHT"
+                   dc:title="EXT.INT LANGDA'S POLITICAL PARTY OFFICE - DAY/NIGHT"
+                   cx:setting="INT LANGDA'S POLITICAL PARTY OFFICE - DAY/"
+                   cx:ordinal="54"
+                   cx:sortord="0054">
+    <cx:members RDF:resource="rdf:#$AsTDU1"/>
+    <cx:markup RDF:resource="rdf:#$BsTDU1"/>
+  </RDF:Description>
+  <cx:Cast RDF:about="http://celtx.com/res/NLRajj4683q5"
+                   dc:title="PRO" />
+  <RDF:Description RDF:about="http://celtx.com/res/8F8l9000"
+                   cx:sceneid="w48l9000"
+                   dc:title="INT. BIGGIES OFFICE - DAY/NIGHT"
+                   cx:intext="INT"
+                   cx:setting="BIGGIES OFFICE - DAY/"
+                   cx:daynight="NIGHT"
+                   cx:location=" "
+                   cx:ordinal="64"
+                   cx:sortord="0064">
+    <cx:members RDF:resource="rdf:#$srPZY"/>
+    <cx:markup RDF:resource="rdf:#$trPZY"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$7sTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$j3DPN1">
+    <RDF:li RDF:resource="rdf:#$LQ49H2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$Nmy1r3">
+    <RDF:li RDF:resource="http://celtx.com/res/lqO9D6e2OBIP"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$Nmy1r3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$brPZY">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$a5s3h2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$crPZY">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/kzpJ9000"
+                   cx:sceneid="L2mJ9000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:setting="HAVING DEFINITE ADDA - EVENING :THIRD SEM"
+                   dc:title="INT. HAVING DEFINITE ADDA - EVENING :THIRD SEM"
+                   cx:ordinal="8"
+                   cx:sortord="0008">
+    <cx:members RDF:resource="rdf:#$NfMW3"/>
+    <cx:markup RDF:resource="rdf:#$OfMW3"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$5gMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$2rPZY">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/QhZ5yH9CBGhO"
+                   dc:title="RAGHU" />
+  <RDF:Seq RDF:about="rdf:#$BmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Qf72Jg5arAPd"/>
+    <RDF:li RDF:resource="http://celtx.com/res/AmlD7bC5lL1w"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$BmsS5"
+                   cx:size="3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$fsTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/38WZWwspSpR4"
+                   dc:title="AMMA" />
+  <RDF:Description RDF:about="http://celtx.com/res/c8bw0000"
+                   cx:sceneid="esbw0000"
+                   cx:location=" "
+                   cx:intext="INT"
+                   cx:daynight="NIGHT"
+                   dc:title="INT. LANGDA'S OFFICE - NIGHT"
+                   cx:setting="LANGDA'S OFFICE"
+                   cx:ordinal="60"
+                   cx:sortord="0060">
+    <cx:members RDF:resource="rdf:#$1jFpj2"/>
+    <cx:markup RDF:resource="rdf:#$2jFpj2"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$AfOGb2">
+    <RDF:li RDF:resource="rdf:#$5xMEK2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$MQ49H2">
+    <RDF:li RDF:resource="http://celtx.com/res/FYJVhqArbglE"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$MQ49H2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$DfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/yfakOdVlWVDb"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$DfMW3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$yklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/X1Ks16mWO8qU"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$yklR71">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$GrTDU1">
+    <RDF:li RDF:resource="http://celtx.com/res/h7Cm0000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/KqmO1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/k9Ha1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pal71000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/oAgh1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/33dH9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/hnyI9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/kzpJ9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/3pGJ9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/H7kN9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/8QgO9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/sAEf1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/3noJ3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/733O1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/q7fu2000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ooeC2000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Dbb22000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/J1gr1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/38is1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ggbw7000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/0oht1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/FGst1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/aB0u1000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/hqia2000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/JLe13000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/stPG2000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/h5eo3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/tyid3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/geOsa000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/E4Dsa000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/fjMsa000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/PmBta000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/7nHta000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/HJBta000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/x43ta000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/i7aua000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/cddua000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/988va000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/tEKva000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/uh70c000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/0Au23000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/km8B4000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/k1xt5000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Kb4l5000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/fxxH5000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/wr7o5000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/1Mr8c000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Fgpbb000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/5gj7c000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/dQac5000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/LK747000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/Eo7A3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/rKAM0000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/f7557000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/bu83d000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pkazd000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/cyJwa000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/9p8J9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/3hJp0000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/c8bw0000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/P0dt0000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/NI7ha000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ausk3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/8F8l9000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/hvzb3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/pgQm3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/fb233000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/unrf3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/ejjg3000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/gOhjw000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/fahjw000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/0ghjw000"/>
+    <RDF:li RDF:resource="http://celtx.com/res/m1s4mf00"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$6gMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$8hMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$orPZY">
+    <RDF:li RDF:resource="rdf:#$tklR71"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$YrTDU1">
+    <RDF:li RDF:resource="rdf:#$CfOGb2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$dgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$egMW3">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/a3d4RZIPsqp7"
+                   dc:title="DAKSH" />
+  <RDF:Seq RDF:about="rdf:#$5rPZY">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/QHuMCvMCvZjM"
+                   dc:title="SHETTY" />
+  <RDF:Seq RDF:about="rdf:#$cxMEK2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$bxMEK2">
+    <RDF:li RDF:resource="rdf:#$exMEK2"/>
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/h0lCTdVkQbG2"
+                   dc:title="VIN" />
+  <RDF:Seq RDF:about="rdf:#$rfMW3">
+    <RDF:li RDF:resource="http://celtx.com/res/YBfJIOsmXilH"/>
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+    <RDF:li RDF:resource="http://celtx.com/res/9A8OPb3h3JMk"/>
+    <RDF:li RDF:resource="http://celtx.com/res/QHuMCvMCvZjM"/>
+    <RDF:li RDF:resource="http://celtx.com/res/gqxKjVlMcjxe"/>
+    <RDF:li RDF:resource="http://celtx.com/res/D3tj10zlua4n"/>
+    <RDF:li RDF:resource="http://celtx.com/res/4dmHlnlNfKz5"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$rfMW3"
+                   cx:size="7">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Document RDF:about="http://celtx.com/res/1kEqvojZWTHA"
+                   dc:title="Screenplay"
+                   cx:localFile="script-uMT.html"
+                   cx:auxFile="scratch-uMT.html"
+                   cx:sidebarvisible="sidebarnotes">
+    <cx:doctype RDF:resource="http://celtx.com/NS/v1/ScriptDocument"/>
+    <cx:scenes RDF:resource="rdf:#$GrTDU1"/>
+    <cx:tagnames RDF:resource="rdf:#$JrTDU1"/>
+  </cx:Document>
+  <RDF:Seq RDF:about="rdf:#$BfOGb2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$OgMW3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$vnr9C3">
+    <RDF:li RDF:resource="http://celtx.com/res/WeOj76KGHfC2"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$vnr9C3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$DfOGb2">
+    <RDF:li RDF:resource="http://celtx.com/res/mI2fwGzobx4o"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$DfOGb2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$AmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/reZBdxNVHdsN"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$AmsS5"
+                   cx:size="1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$zklR71">
+    <RDF:li RDF:resource="http://celtx.com/res/PFp0k9FtK7Q8"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$zklR71">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$8sTDU1">
+  </RDF:Seq>
+  <cx:Cast RDF:about="http://celtx.com/res/XAQW8C3y0q3L"
+                   dc:title="MECH BOY_2" />
+  <RDF:Seq RDF:about="rdf:#$qjrQV3">
+    <RDF:li RDF:resource="http://celtx.com/res/D3tj10zlua4n"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$qjrQV3">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Cast RDF:about="http://celtx.com/res/VjqLdAN3409A"
+                   dc:title="MECH BOY_1" />
+  <RDF:Seq RDF:about="rdf:#$3hMW3">
+    <RDF:li RDF:resource="rdf:#$jrPZY"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$CvKVw3">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$l3DPN1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$BsTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$dxMEK2">
+    <RDF:li RDF:resource="http://celtx.com/res/TgJfVBLQWc3z"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$dxMEK2">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$+fMW3">
+    <RDF:li RDF:resource="rdf:#$EfOGb2"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$2jFpj2">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$s3DPN1">
+    <RDF:li RDF:resource="http://celtx.com/res/54bpa9Rk9ghA"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$s3DPN1">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <cx:Cast RDF:about="http://celtx.com/res/NWiYPWUSzWmH"
+                   dc:title="O." />
+  <RDF:Seq RDF:about="rdf:#$FmsS5">
+    <RDF:li RDF:resource="http://celtx.com/res/AmlD7bC5lL1w"/>
+  </RDF:Seq>
+  <cx:DepartmentList RDF:about="rdf:#$FmsS5">
+    <cx:department RDF:resource="http://celtx.com/NS/v1/Cast"/>
+  </cx:DepartmentList>
+  <RDF:Seq RDF:about="rdf:#$csTDU1">
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$TfMW3">
+    <RDF:li RDF:resource="rdf:#$MmsS5"/>
+  </RDF:Seq>
+  <RDF:Seq RDF:about="rdf:#$2gMW3">
+  </RDF:Seq>
+  <cx:Document RDF:about="http://celtx.com/res/INWKvSDiWASj"
+                   dc:title="Master Catalog"
+                   cx:size="46">
+    <cx:doctype RDF:resource="http://celtx.com/NS/v1/CatalogDocument"/>
+    <cx:filter RDF:resource="celtx:filter:all"/>
+    <cx:members RDF:resource="rdf:#$FrTDU1"/>
+    <cx:departments RDF:resource="rdf:#$pfMW3"/>
+  </cx:Document>
+  <cx:Cast RDF:about="http://celtx.com/res/Qf72Jg5arAPd"
+                   dc:title="FRIEND" />
+  <RDF:Seq RDF:about="rdf:#$MfMW3">
+  </RDF:Seq>
+  <RDF:Description RDF:about="http://celtx.com/res/km8B4000"
+                   cx:sceneid="a98B4000"
+                   cx:location=" "
+                   dc:title="EXT. SOME PLACE/ VILLAGE - DAY"
+                   cx:intext="EXT"
+                   cx:setting="SOME PLACE/ VILLAGE"
+                   cx:daynight="DAY"
+                   cx:ordinal="42"
+                   cx:sortord="0042">
+    <cx:members RDF:resource="rdf:#$gsTDU1"/>
+    <cx:markup RDF:resource="rdf:#$hsTDU1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$8gMW3">
+  </RDF:Seq>
+</RDF:RDF>
